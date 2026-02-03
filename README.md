@@ -1,4 +1,4 @@
-# Roblox Fishing Macro
+# Roblox Fishing Macro *FOR FABULOUS ROD ONLY*
 
 An automated fishing macro for Roblox games with a user-friendly GUI, customizable keybindings, and intelligent color detection for fishing mechanics.
 
